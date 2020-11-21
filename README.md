@@ -1,0 +1,2 @@
+# pandemic
+Pandemic simulator
